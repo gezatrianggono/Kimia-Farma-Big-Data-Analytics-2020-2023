@@ -1,6 +1,6 @@
 # Project-Based Internship — Performance Analytics (Kimia Farma 2020–2023)
 
-![Sales Dashboard Preview](./assets/Screenshot2026-04-10152542.png)
+![Sales Dashboard Preview](./assets/assets/Screenshot 2026-04-10 152542.png)
 
 ## 1) Project Overview
 This project delivers a unified analytical view of **business performance** for Kimia Farma across **2020–2023**. As part of the Big Data Analytics Final Task, the solution integrates raw tables into a curated dataset in BigQuery and publishes an **interactive dashboard** in Google Looker Studio to explore trends, branch performance, and profitability.
