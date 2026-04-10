@@ -72,8 +72,8 @@ Built in Google Looker Studio, fulfilling all mandatory challenge requirements:
 ## 9) Repository Structure
 .
 ├── assets/ <br>
-│   ├── Sales_Dashboard_preview.png <br>
-│   └── Inventory_Dashboard_preview.png <br>
-├── sql/ <br>
-│   └── syntax_tabel_analisa.sql <br>
-└── README.md
+│   ├── Dashboard_1.png <br>
+|   ├── Dashboard_2.png <br>
+│   └── Dashboard_3.png <br>
+├── README.md    
+└── syntax_tabel_analisa_performance_analytics_kf.sql <br>
