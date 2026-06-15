@@ -1,6 +1,6 @@
 # Project-Based Internship — Performance Analytics (Kimia Farma 2020–2023)
 
-![Dashboard Halaman 1](./assets/Dashboard_1.png)
+![Dashboard Halaman 1](./assets/Dashboard_1.jpg)
 ![Dashboard Halaman 2](./assets/Dashboard_2.png)
 ![Dashboard Halaman 3](./assets/Dashboard_3.png)
 
